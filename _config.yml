@@ -3,7 +3,7 @@ title: "Architecture Playbook"
 author : '<a href="https://nocomplexity.com/">Maikel Mardjan (nocomplexity.com)</a> and contributors.' # The author of the book
 #author : '' To ommit the author line in the footer
 logo: 'images/nocxbanner.png'
-copyright: "2018-2024 BM-Support.org. Created by Maikel Mardjan. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa)"
+copyright: "2018-2026 BM-Support.org. Created by Maikel Mardjan. This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (cc-by-sa)"
 
 
 launch_buttons:
@@ -32,7 +32,7 @@ sphinx:
       use_issues_button: True           
       logo:
            text: <b>Architecture Playbook</b>
-      extra_footer: '<p>(c) 2018-2024 <a href="https://bm-support.org/"> BM-Support.org</a>  <br> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
+      extra_footer: '<p>(c) 2018-2026 <a href="https://bm-support.org/"> BM-Support.org</a>  <br> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>'
       
 
       

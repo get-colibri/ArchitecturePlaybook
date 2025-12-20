@@ -35,6 +35,10 @@ parts:
   - file: notebooks
     sections:
     - file: reliability.ipynb
-- caption: Join
+- caption: About
   chapters:
   - file: help
+  - file: sponsors
+  - file: license
+  - file: about
+

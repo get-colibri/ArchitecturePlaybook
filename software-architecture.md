@@ -95,6 +95,9 @@ A nice FOSS tool to render Mermaid graphs inside your terminal can be found here
 [https://mermaid-ascii.art/](https://mermaid-ascii.art/)
 
 
+Another FOSS tool for creating Mermaid diagrams is Merview.
+* Try it out on: https://merview.com/ 
+* Code on [GitHub](https://github.com/mickdarling/merview)
 
 ## Systemizer
 
