@@ -1,6 +1,6 @@
 # ArchitecturePlaybook
 
-Smart people have been thinking about how to create IT architectures as long as there has been computers. Ideas come and go, however creating a good architectures can still be complex and time consuming. Especially when you try to invent the wheel for yourself. With this interactive playbook you can create your IT architecture better and faster.
+Smart people have been thinking about how to create IT architectures as long as there has been computers. Ideas come and go, however creating a good architecture can still be complex and time consuming. Especially when you try to invent the wheel for yourself. With this interactive playbook you can create your IT architecture better and faster.
 
 This architecture playbook is divided in the commonly used architecture sections:
 
